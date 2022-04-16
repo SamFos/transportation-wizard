@@ -19,5 +19,4 @@ Install following using terminal
 5. npm i cookie-parser jsonwebtoken
 
 To run server 
-
 npm start 

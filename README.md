@@ -18,5 +18,4 @@ Install following using terminal
 4. npm i bcryptjs
 5. npm i cookie-parser jsonwebtoken
 
-To run server 
-npm start 
+To run server: npm start 

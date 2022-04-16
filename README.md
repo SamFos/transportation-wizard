@@ -8,7 +8,8 @@ transportation wizard for CMC
 >### Link to our Jira
 >https://codymilne.atlassian.net/jira/software/projects/TV/boards/2/roadmap?selectedIssue=TV-16
 
->### How to run
+How to run
+
 Install following using terminal 
 
 1. npm init -y  //creates json file 

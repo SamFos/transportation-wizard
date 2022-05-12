@@ -2,7 +2,8 @@
 <img src="https://i.imgur.com/mpdO0eb.png"  width="250" />
 
 California Mobility Center is working with Siemen's Mobility, for employer funded transportation service. Base on SMUD heatmeat(https://usage.smud.org/SustainableCommunities/), CMC is looking at the areas with lower income that may have higher desire or demands for utilizing custom transportation service.
-<img src="https://i.imgur.com/8m7fN0B.png"  width="250" />
+
+<img src="https://i.imgur.com/8m7fN0B.png" />
 
 
 

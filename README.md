@@ -3,8 +3,13 @@
 
 California Mobility Center is working with Siemen's Mobility, for employer funded transportation service. Base on SMUD heatmeat(https://usage.smud.org/SustainableCommunities/), CMC is looking at the areas with lower income that may have higher desire or demands for utilizing custom transportation service.
 
+Why custom transportation? Siemens Mobility work shift starts at 5:30 AM and most of the public busses do not start running until 7
+
 <img src="https://i.imgur.com/8m7fN0B.png" />
 
+
+CMC is going to narrow focus on a certain area and is going to reach out to individuals to see who is interested to participate
+in this program. Then would try to come up with optimal travel plans and routes and to see if this custom route is feasible.
 
 <b><p>Example of tool description</b></p>
 <img src="https://i.imgur.com/5CYLyGj.png" />

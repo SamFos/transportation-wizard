@@ -40,20 +40,19 @@ https://edu2mfg.itulbuild.com/
 
 https://californiamobilitycenter.org/
 
+## Jira progress
+
+<img src="https://i.imgur.com/Tc8BJOY.png"/>
+<img src="https://i.imgur.com/VxzMMV2.png"/>
+<img src="https://i.imgur.com/7gFp3d1.png"/>
+Current backlog
+<img src="https://i.imgur.com/34fYAai.png"/>
+
+
 >### Link to our google folder
 >https://drive.google.com/drive/u/2/folders/1DZdMwNsu3tzXGgiLas_ElsaQ2RV9YyzL
 
 >### Link to our Jira
 >https://codymilne.atlassian.net/jira/software/projects/TV/boards/2/roadmap?selectedIssue=TV-16
 
-How to run
 
-Install following using terminal 
-
-1. npm init -y  //creates json file 
-2. npm i express mysql dotenv hbs
-3. npm i --save nodemon
-4. npm i bcryptjs
-5. npm i cookie-parser jsonwebtoken
-
-To run server: npm start 

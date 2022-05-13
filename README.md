@@ -10,6 +10,7 @@ The CMC coordinates commercialization initiatives between early-stage Clients an
 
 <img src="https://i.imgur.com/mpdO0eb.png"  width="250" />
 <b>What is EDU2MFG?</b>
+
 Education to Manufacturing is designed to be the primary website for manufacturing employers, students, and educators to find each other and connect. In addition, useful information like best practices, curriculum resources, and workforce development programs will be included in the resources page. Even though the site currently includes all partners in the El Dorado, Nevada, Placer, Sacramento, Sutter, Yolo, and Yuba counties, the site is designed to easily scale to the entire state of California.
 
 Funded by the California Community College Chancellor’s Office, this initiative offers collaboration pathways for colleges, educational partners, industry representatives and other organizations supporting Advanced Manufacturing.
@@ -32,6 +33,12 @@ Looking at this area of the map above and using Paratransit(at least 20 people m
 CMC would also like to incorporate and integrate in a single map of public transport route, tags to show what bus route it is and stops.
 
 
+<img src="https://i.imgur.com/y7DZQm2.png"/><img src="https://i.imgur.com/tO4LFtW.png"/><img src="https://i.imgur.com/S5OgepR.png"/>
+
+
+https://edu2mfg.itulbuild.com/
+
+https://californiamobilitycenter.org/
 
 >### Link to our google folder
 >https://drive.google.com/drive/u/2/folders/1DZdMwNsu3tzXGgiLas_ElsaQ2RV9YyzL

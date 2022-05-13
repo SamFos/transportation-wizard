@@ -16,7 +16,7 @@ in this program. Then would try to come up with optimal travel plans and routes 
 <b><p>Example of tool description</b></p>
 <img src="https://i.imgur.com/5CYLyGj.png" />
 
-Looking at this area of the map above and using Paratransit(at least 20 people max) for custom transportation. In this example, we have approximately 40 employees in this area and out of 40, 16 people express interest for pickup. CMC want to identify optimal waypoints, and each destination may have a stop at 1, 2, or 3 location etc, with at least 1 mile radius for the next pickup location. Another thing to note, pickup locations will not be at employee location to maintain their privacy. Everyone will be going to the same location after pickup which is Siemens Mobility pr vice versa, leaving Siemens Mobility.
+Looking at this area of the map above and using Paratransit(at least 20 people max) for custom transportation. In this example, we have approximately 40 employees in this area and out of 40, 16 people express interest for pickup. CMC want to identify optimal waypoints, and each destination may have a stop at 1, 2, or 3 location etc, with at least 1 mile radius for the next pickup location. Another thing to note, pickup locations will not be at employee location to maintain their privacy. Everyone will be going to the same location after pickup which is Siemens Mobility or vice versa, leaving Siemens Mobility and dropping the employees off to their previous pickup points.
 
 CMC would also like to incorporate and integrate in a single map of public transport route, tags to show what bus route it is and stops.
 

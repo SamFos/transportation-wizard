@@ -9,7 +9,7 @@ California Mobility Center is working with Siemen's Mobility, for employer funde
 <b><p>Example of tool description</b></p>
 <img src="https://i.imgur.com/5CYLyGj.png" />
 
-Looking at this area of the map above and using Paratransit(at least 20 people max) for custom transportation. In this example, we have approximately 40 employees in this area and out of 40, 16 people express interest for pickup. CMC want to identify optimal waypoints, and each destination may have a stop at 1, 2, or 3 location etc, with at least 1 mile radius for the next location.
+Looking at this area of the map above and using Paratransit(at least 20 people max) for custom transportation. In this example, we have approximately 40 employees in this area and out of 40, 16 people express interest for pickup. CMC want to identify optimal waypoints, and each destination may have a stop at 1, 2, or 3 location etc, with at least 1 mile radius for the next location. Everyone will be going to the same location after pickup which is Siemens Mobility pr vice versa, leaving Siemens Mobility.
 
 
 

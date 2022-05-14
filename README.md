@@ -47,12 +47,3 @@ https://californiamobilitycenter.org/
 <img src="https://i.imgur.com/7gFp3d1.png"/>
 Current backlog
 <img src="https://i.imgur.com/34fYAai.png"/>
-
-
->### Link to our google folder
->https://drive.google.com/drive/u/2/folders/1DZdMwNsu3tzXGgiLas_ElsaQ2RV9YyzL
-
->### Link to our Jira
->https://codymilne.atlassian.net/jira/software/projects/TV/boards/2/roadmap?selectedIssue=TV-16
-
-
